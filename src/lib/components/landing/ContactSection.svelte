@@ -171,8 +171,8 @@
 							<Phone class="h-4 w-4 md:h-5 md:w-5 shrink-0 text-primary" />
 							<div>
 								<p class="text-sm md:text-base font-medium">Phone</p>
-								<a href="tel:+918860671809" class="text-xs md:text-sm text-gray-600 hover:text-primary dark:text-gray-300 dark:hover:text-primary">
-									+91 8860671809
+								<a href="tel:+919220796359" class="text-xs md:text-sm text-gray-600 hover:text-primary dark:text-gray-300 dark:hover:text-primary">
+									+91 9220796359
 								</a>
 							</div>
 						</div>

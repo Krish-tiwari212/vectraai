@@ -107,8 +107,8 @@
 					</span>
 				</a>
 				<p class="max-w-xs">Transforming businesses with intelligent AI solutions</p>
-				<p class="text-sm text-gray-500">contact@vectraai.com</p>
-				<p class="text-sm text-gray-500">+1 (555) 123-4567</p>
+				<p class="text-sm text-gray-500">vectraaisolutions.contact@gmail.com</p>
+				<p class="text-sm text-gray-500">+91 9220796359</p>
 			</div>
 			<div class="grid grid-cols-1 gap-8 sm:grid-cols-3 sm:gap-10">
 				{#each footerNavs as nav}
