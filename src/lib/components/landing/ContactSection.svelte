@@ -166,7 +166,8 @@
 						</p>
 					</div>
 					
-					
+					<div class="space-y-3 md:space-y-4">
+						
 						
 						<div class="flex items-start gap-2 md:gap-3">
 							<AtSign class="h-4 w-4 md:h-5 md:w-5 shrink-0 text-primary" />
